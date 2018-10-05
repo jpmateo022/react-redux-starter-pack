@@ -1,4 +1,4 @@
-# React and Redux Starter Pack
+# React and Redux Starter Pack (In Progress)
 **Developer**: JP Mateo
 <br/>
 **Full Tutorial**: http://travel-with-codes.lurl.xyz
